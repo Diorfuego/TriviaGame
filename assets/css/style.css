@@ -1,0 +1,21 @@
+body {
+    background-image: url("img_tree.gif"), url("paper.gif");
+    background-color: #cccccc;
+  }
+
+#title {
+    color: blueviolet
+}
+
+p {
+    color: blue;
+}
+
+
+div {
+    display: block;
+}
+
+.hidden{
+    display:none;
+}
